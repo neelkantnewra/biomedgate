@@ -1,0 +1,88 @@
+[
+    {
+        "1": "The Last digit of the number obtained by multiplying the numbers 81 x 82 x 83 x 84 x 85 x 86 x 87 x 88 x 89 will be.",
+        "2": "The sum of the digits of a two-digit number is 10, while when the digits are reversed, the number decreases by 54. Find the changed number.",
+        "3": "The sum of two numbers is 15 and their geometric mean is 20% lower than their arithmetic mean. Find the numbers.",
+        "4": "If A381 is divisible by 11, find the value of the smallest natural number A?",
+        "5": "If 381A is divisble by 9, find the value of smallest natural number A?",
+        "6": "Find the LCM of 5/2, 8/9, 11/14 ?",
+        "7": "A number 15B is divisible by 6. Which of these will be true about the positive integer B?",
+        "8": "Find the number of zeros at the end of 100!?",
+        "9": "If 146! is divisible by 5^n, then find the maximum value of n.?",
+        "10": "Find the number of divisors of 1420?"
+    },
+    {
+        "1": {
+            "a": "0",
+            "b": "9",
+            "c": "7",
+            "d": "2"
+        },
+        "2": {
+            "a": "28",
+            "b": "19",
+            "c": "37",
+            "d": "46"
+        },
+        "3": {
+            "a": "11,4",
+            "b": "12,3",
+            "c": "13,2",
+            "d": "10,5"
+        },
+        "4": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "9"
+        },
+        "5": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "9"
+        },
+        "6": {
+            "a": "280",
+            "b": "360",
+            "c": "420",
+            "d": "None of these"
+        },
+        "7": {
+            "a": "B will be even",
+            "b": "B will be odd",
+            "c": "B will be divisible by 6",
+            "d": "even and divisible by 6"
+        },
+        "8": {
+            "a": "24",
+            "b": "28",
+            "c": "26",
+            "d": "None of these"
+        },
+        "9": {
+            "a": "34",
+            "b": "35",
+            "c": "36",
+            "d": "37"
+        },
+        "10": {
+            "a": "12",
+            "b": "13",
+            "c": "15",
+            "d": "14"
+        }
+    },
+    {
+        "1": "0",
+        "2": "28",
+        "3": "12,3",
+        "4": "7",
+        "5": "9",
+        "6": "None of these",
+        "7": "even and divisible by 6",
+        "8": "24",
+        "9": "35",
+        "10": "12"
+    }
+]
